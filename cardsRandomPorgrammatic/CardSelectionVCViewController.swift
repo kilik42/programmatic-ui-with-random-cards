@@ -10,7 +10,7 @@ import UIKit
 
 class CardSelectionVCViewController: UIViewController {
 
-    let CardImageView = UIImageView()
+    let cardImageView = UIImageView()
     let stopButton = CWButton(backgroundColor: .systemRed, title: "Stop!")
     let resetButton = CWButton(backgroundColor: .systemGreen, title: "Reset")
     let rulesButton = CWButton(backgroundColor: .systemBlue, title: "Rules")
@@ -21,18 +21,31 @@ class CardSelectionVCViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         view.backgroundColor = .systemBackground
+        configureUI()
         
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    func configureUI(){
+        configureCardImageView()
     }
-    */
+    
+    func configureCardImageView(){
+        view.addSubview(cardImageView)
+        cardImageView.translatesAutoresizingMaskIntoConstraints = false
+        cardImageView.image = UIImage(named: "AS")
+        
+        NSLayoutConstraint.activate([
+            cardImageView.widthAnchor.constraint(equalToConstant: 250),
+            cardImageView.heightAnchor.constraint(equalToConstant: 350),
+            cardImageView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+            cardImageView.centerYAnchor.constraint(equalTo: view.centerYAnchor, constant: -75)
+            
+        ])
+    }
+    
+    func configureStopButton(){
+        view.addSubview(stopButton)
+        
+    }
 
 }
