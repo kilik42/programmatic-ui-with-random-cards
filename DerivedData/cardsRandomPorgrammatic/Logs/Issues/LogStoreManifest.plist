@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>469A8306-D08D-4DFE-A274-FB67E56C1A9A</key>
+		<key>DB2A77E4-A2F5-4E26-949E-637CE9767C79</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>469A8306-D08D-4DFE-A274-FB67E56C1A9A.xcactivitylog</string>
+			<string>DB2A77E4-A2F5-4E26-949E-637CE9767C79.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>cardsRandomPorgrammatic-fmonxukkpztbaucukrxcbmgnvkiy</string>
 			<key>timeStartedRecording</key>
-			<real>611528416.68833804</real>
+			<real>611532071.10070503</real>
 			<key>timeStoppedRecording</key>
-			<real>611528422.39134502</real>
+			<real>611532071.93833303</real>
 			<key>title</key>
 			<string>Build target cardsRandomPorgrammatic</string>
 			<key>uniqueIdentifier</key>
-			<string>469A8306-D08D-4DFE-A274-FB67E56C1A9A</string>
+			<string>DB2A77E4-A2F5-4E26-949E-637CE9767C79</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

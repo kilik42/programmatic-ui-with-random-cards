@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>227BC291-3B2B-4947-8678-88F3B5DDEB21</key>
+		<key>BDBE18C9-0AA2-4F00-B460-005B7FC17512</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>227BC291-3B2B-4947-8678-88F3B5DDEB21.xcactivitylog</string>
+			<string>BDBE18C9-0AA2-4F00-B460-005B7FC17512.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run cardsRandomPorgrammatic</string>
 			<key>timeStartedRecording</key>
-			<real>611528422.41647696</real>
+			<real>611532071.96132195</real>
 			<key>timeStoppedRecording</key>
-			<real>611528441.76626301</real>
+			<real>611532096.807742</real>
 			<key>title</key>
 			<string>Run cardsRandomPorgrammatic</string>
 			<key>uniqueIdentifier</key>
-			<string>227BC291-3B2B-4947-8678-88F3B5DDEB21</string>
+			<string>BDBE18C9-0AA2-4F00-B460-005B7FC17512</string>
 		</dict>
-		<key>DD3C8E2C-9083-407E-94CC-B1A786A43C50</key>
+		<key>CCE8674F-44D4-40F5-8C2B-08203AC4D34F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>DD3C8E2C-9083-407E-94CC-B1A786A43C50.xcactivitylog</string>
+			<string>CCE8674F-44D4-40F5-8C2B-08203AC4D34F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,13 @@
 			<key>signature</key>
 			<string>Run cardsRandomPorgrammatic</string>
 			<key>timeStartedRecording</key>
-			<real>611509615.934129</real>
+			<real>611531356.98693001</real>
 			<key>timeStoppedRecording</key>
-			<real>611509634.87458599</real>
+			<real>611531368.55305004</real>
 			<key>title</key>
 			<string>Run cardsRandomPorgrammatic</string>
 			<key>uniqueIdentifier</key>
-			<string>DD3C8E2C-9083-407E-94CC-B1A786A43C50</string>
+			<string>CCE8674F-44D4-40F5-8C2B-08203AC4D34F</string>
 		</dict>
 	</dict>
 </dict>
