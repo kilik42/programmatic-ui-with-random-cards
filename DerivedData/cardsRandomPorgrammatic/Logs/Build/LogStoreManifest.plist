@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>07717940-1235-4677-A881-912F1EC4A25F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07717940-1235-4677-A881-912F1EC4A25F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611634645.37548399</real>
+			<key>timeStoppedRecording</key>
+			<real>611634646.21448004</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>07717940-1235-4677-A881-912F1EC4A25F</string>
+		</dict>
 		<key>1B9DF47F-CE6F-4956-9A3E-854B1B8EA5BB</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +141,108 @@
 			<string>Build cardsRandomPorgrammatic</string>
 			<key>uniqueIdentifier</key>
 			<string>5BEBEDE8-C4BD-4209-BF49-83470C90D576</string>
+		</dict>
+		<key>617D2E5C-8740-433C-83BF-9B3F88A3755E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>617D2E5C-8740-433C-83BF-9B3F88A3755E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611634592.29609799</real>
+			<key>timeStoppedRecording</key>
+			<real>611634593.40687501</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>617D2E5C-8740-433C-83BF-9B3F88A3755E</string>
+		</dict>
+		<key>958D31D9-EB30-4C25-AD79-67E225B18650</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>958D31D9-EB30-4C25-AD79-67E225B18650.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611634703.43765998</real>
+			<key>timeStoppedRecording</key>
+			<real>611634704.24059701</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>958D31D9-EB30-4C25-AD79-67E225B18650</string>
+		</dict>
+		<key>9E862ECA-5E34-483E-88FD-B95464B7A9A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E862ECA-5E34-483E-88FD-B95464B7A9A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611634594.59353399</real>
+			<key>timeStoppedRecording</key>
+			<real>611634594.63681805</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>9E862ECA-5E34-483E-88FD-B95464B7A9A4</string>
 		</dict>
 	</dict>
 </dict>

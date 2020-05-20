@@ -19,6 +19,7 @@ class RulesVCViewController: UIViewController {
 
         view.backgroundColor = .systemBackground
         configureTitleLabel()
+        configureRulesLabel()
         
     }
     
@@ -38,10 +39,21 @@ class RulesVCViewController: UIViewController {
     
     func configureRulesLabel(){
         view.addSubview(rulesLabel)
-        titleLabel.translatesAutoresizingMaskIntoConstraints  = false
-        titleLabel.text = ""
-        titleLabel.font = .systemFont(ofSize: <#T##CGFloat#>, weight: .bold)
-        titleLabel.textAlignment = .center
+        rulesLabel.translatesAutoresizingMaskIntoConstraints  = false
+        rulesLabel.text = "The Value of each card represents the number of exercise you do. \n \n  J = 11, Q= 12, K = 13, A = 14"
+        rulesLabel.font = .systemFont(ofSize: 19, weight: .semibold)
+        rulesLabel.textAlignment = .center
+        rulesLabel.lineBreakMode = .byWordWrapping
+        rulesLabel.numberOfLines = 0
+        
+        
+        NSLayoutConstraint.activate([
+            rulesLabel.topAnchor.constraint(equalTo: titleLabel.bottomAnchor, constant: 25),
+            rulesLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 30),
+            //rulesLabel.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: 30),
+            rulesLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -30)
+            
+        ])
     }
 
 }
