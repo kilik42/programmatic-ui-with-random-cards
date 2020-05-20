@@ -15,6 +15,10 @@ class CardSelectionVCViewController: UIViewController {
     let resetButton = CWButton(backgroundColor: .systemGreen, title: "Reset")
     let rulesButton = CWButton(backgroundColor: .systemBlue, title: "Rules")
     
+    let cards: [UIImage] = CardDeck.allValues
+    var timer :Timer!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -22,7 +26,15 @@ class CardSelectionVCViewController: UIViewController {
         
         view.backgroundColor = .systemBackground
         configureUI()
-        
+        startTimer()
+    }
+    
+    func startTimer(){
+        timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(showRandomCard), userInfo: nil, repeats: true)
+    }
+    
+    @objc func showRandomCard(){
+        cardImageView.image = cards.randomElement()
     }
     
     func configureUI(){

@@ -13,7 +13,10 @@ class RulesVCViewController: UIViewController {
     let titleLabel = UILabel()
     let rulesLabel = UILabel()
     let exerciseLabel = UILabel()
-
+    
+  
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
