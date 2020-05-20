@@ -20,7 +20,7 @@ class RulesVCViewController: UIViewController {
         view.backgroundColor = .systemBackground
         configureTitleLabel()
         configureRulesLabel()
-        
+        configureExerciseLabel()
     }
     
     func configureTitleLabel(){
@@ -55,5 +55,23 @@ class RulesVCViewController: UIViewController {
             
         ])
     }
+    
+    
+    func configureExerciseLabel(){
+           view.addSubview(exerciseLabel)
+           exerciseLabel.translatesAutoresizingMaskIntoConstraints  = false
+           exerciseLabel.text = "♠️ = Push-ups\n\n ❤️ = Sit-up \n \nc♣️ = Burpees \n\n ♦️ = Jumping Jacks"
+           exerciseLabel.font = .systemFont(ofSize: 19, weight: .semibold)
+           exerciseLabel.textAlignment = .left
+           exerciseLabel.numberOfLines = 0
+           
+           
+           NSLayoutConstraint.activate([
+               exerciseLabel.topAnchor.constraint(equalTo: rulesLabel.bottomAnchor, constant: 25),
+               exerciseLabel.widthAnchor.constraint(equalToConstant: 200),
+               exerciseLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor)
+               
+           ])
+       }
 
 }
