@@ -232,6 +232,8 @@ SWIFT_CLASS("_TtC23cardsRandomPorgrammatic29CardSelectionVCViewController")
 @interface CardSelectionVCViewController : UIViewController
 - (void)viewDidLoad;
 - (void)showRandomCard;
+- (void)stopTimer;
+- (void)resetTimer;
 - (void)presentRulesVC;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
