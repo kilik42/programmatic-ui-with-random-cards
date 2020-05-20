@@ -40,7 +40,7 @@
 			<key>uniqueIdentifier</key>
 			<string>1B9DF47F-CE6F-4956-9A3E-854B1B8EA5BB</string>
 		</dict>
-		<key>2AD7389F-D3C9-4270-875E-713C27AB0F3F</key>
+		<key>31777460-1EB5-443C-A56E-7DBAC872C711</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2AD7389F-D3C9-4270-875E-713C27AB0F3F.xcactivitylog</string>
+			<string>31777460-1EB5-443C-A56E-7DBAC872C711.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,47 @@
 			<key>signature</key>
 			<string>Build cardsRandomPorgrammatic</string>
 			<key>timeStartedRecording</key>
-			<real>611531356.94024503</real>
+			<real>611631233.01937199</real>
 			<key>timeStoppedRecording</key>
-			<real>611531356.98366904</real>
+			<real>611631233.08211696</real>
 			<key>title</key>
 			<string>Build cardsRandomPorgrammatic</string>
 			<key>uniqueIdentifier</key>
-			<string>2AD7389F-D3C9-4270-875E-713C27AB0F3F</string>
+			<string>31777460-1EB5-443C-A56E-7DBAC872C711</string>
+		</dict>
+		<key>5BEBEDE8-C4BD-4209-BF49-83470C90D576</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BEBEDE8-C4BD-4209-BF49-83470C90D576.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611631230.87832201</real>
+			<key>timeStoppedRecording</key>
+			<real>611631231.92521906</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>5BEBEDE8-C4BD-4209-BF49-83470C90D576</string>
 		</dict>
 	</dict>
 </dict>

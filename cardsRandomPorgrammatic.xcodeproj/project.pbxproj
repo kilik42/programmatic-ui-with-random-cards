@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		109ABEB72474BCA200E89F36 /* RulesVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109ABEB62474BCA200E89F36 /* RulesVCViewController.swift */; };
 		10FB2F8C2472E08500CEEE25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FB2F8B2472E08500CEEE25 /* AppDelegate.swift */; };
 		10FB2F8E2472E08500CEEE25 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FB2F8D2472E08500CEEE25 /* SceneDelegate.swift */; };
 		10FB2F952472E08700CEEE25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10FB2F942472E08700CEEE25 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		109ABEB62474BCA200E89F36 /* RulesVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVCViewController.swift; sourceTree = "<group>"; };
 		10FB2F882472E08500CEEE25 /* cardsRandomPorgrammatic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cardsRandomPorgrammatic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10FB2F8B2472E08500CEEE25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10FB2F8D2472E08500CEEE25 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				10FB2F8D2472E08500CEEE25 /* SceneDelegate.swift */,
 				10FB2FA12472E78300CEEE25 /* CWButton.swift */,
 				10FB2F9F2472E46A00CEEE25 /* CardSelectionVCViewController.swift */,
+				109ABEB62474BCA200E89F36 /* RulesVCViewController.swift */,
 				10FB2F942472E08700CEEE25 /* Assets.xcassets */,
 				10FB2F962472E08700CEEE25 /* LaunchScreen.storyboard */,
 				10FB2F992472E08700CEEE25 /* Info.plist */,
@@ -140,6 +143,7 @@
 				10FB2FA02472E46A00CEEE25 /* CardSelectionVCViewController.swift in Sources */,
 				10FB2F8C2472E08500CEEE25 /* AppDelegate.swift in Sources */,
 				10FB2F8E2472E08500CEEE25 /* SceneDelegate.swift in Sources */,
+				109ABEB72474BCA200E89F36 /* RulesVCViewController.swift in Sources */,
 				10FB2FA22472E78300CEEE25 /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
