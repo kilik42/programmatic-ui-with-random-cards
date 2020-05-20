@@ -176,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>617D2E5C-8740-433C-83BF-9B3F88A3755E</string>
 		</dict>
+		<key>7107C681-BEFF-41A0-AA19-DC4F42743978</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7107C681-BEFF-41A0-AA19-DC4F42743978.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cardsRandomPorgrammatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cardsRandomPorgrammatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>timeStartedRecording</key>
+			<real>611637209.438465</real>
+			<key>timeStoppedRecording</key>
+			<real>611637210.51821804</real>
+			<key>title</key>
+			<string>Build cardsRandomPorgrammatic</string>
+			<key>uniqueIdentifier</key>
+			<string>7107C681-BEFF-41A0-AA19-DC4F42743978</string>
+		</dict>
 		<key>958D31D9-EB30-4C25-AD79-67E225B18650</key>
 		<dict>
 			<key>className</key>

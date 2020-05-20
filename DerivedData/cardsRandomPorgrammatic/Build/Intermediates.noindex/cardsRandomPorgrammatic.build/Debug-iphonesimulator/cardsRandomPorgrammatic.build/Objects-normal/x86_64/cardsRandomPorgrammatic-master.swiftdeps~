@@ -1,9 +1,9 @@
 version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
 options: "60118305bbc5a3a5cf47fa055a897ffb"
-build_time: [1589941845, 418133000]
+build_time: [1589941903, 478249000]
 inputs:
   "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/CardSelectionVCViewController.swift": [1589938428, 602193520]
   "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/AppDelegate.swift": [1589815557, 519904717]
   "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/SceneDelegate.swift": [1589816805, 699110006]
-  "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/RulesVCViewController.swift": [1589941844, 905328507]
+  "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/RulesVCViewController.swift": [1589941900, 545750738]
   "/Users/marvinevins/Library/Autosave Information/cardsRandomPorgrammatic/cardsRandomPorgrammatic/CWButton.swift": [1589838655, 455879502]

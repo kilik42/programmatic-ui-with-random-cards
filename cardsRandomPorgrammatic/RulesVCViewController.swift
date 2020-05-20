@@ -67,7 +67,7 @@ class RulesVCViewController: UIViewController {
            
            
            NSLayoutConstraint.activate([
-               exerciseLabel.topAnchor.constraint(equalTo: rulesLabel.bottomAnchor, constant: 25),
+               exerciseLabel.topAnchor.constraint(equalTo: rulesLabel.bottomAnchor, constant: 60),
                exerciseLabel.widthAnchor.constraint(equalToConstant: 200),
                exerciseLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor)
                
